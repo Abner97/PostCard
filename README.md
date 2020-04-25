@@ -1,2 +1,2 @@
 # PostCard
-Ract Post Card
+React Post Card
