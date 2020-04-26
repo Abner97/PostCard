@@ -3,8 +3,11 @@ import ReactDOM from 'react-dom';
 import './index.css';
 
 import * as serviceWorker from './serviceWorker';
-
+import "../node_modules/jquery/dist/jquery.slim.min.js";
+import "../node_modules/popper.js/dist/umd/popper.min.js";
+import name from 'module';
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+
 import Card from './Card/CardUI';
 
 
