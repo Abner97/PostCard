@@ -12,7 +12,7 @@ const Card = (props) => {
               src={img1}
               class="card-img-top w-100 h-100"
               alt="Card image cap"
-            ></img>
+            />
           </div>
 
           <div class=" card-body  ">
